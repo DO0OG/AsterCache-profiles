@@ -26,6 +26,7 @@ required: without a matching profile AsterCache records the first run itself.
 | Game | Key | Recorded on |
 |---|---|---|
 | Frostpunk (Epic) | epic `0.0.10`, exe fingerprint | HDD, 2026-11-02 |
+| Call of Duty HQ (Steam 1938090) | steam depots 1938091/1938092, exe fingerprint | HDD, 2026-11-02 |
 
 ---
 

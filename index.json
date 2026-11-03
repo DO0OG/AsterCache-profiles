@@ -1,4 +1,37 @@
-{"format":"astercache-profile-index","version":1,"entries":[
-  {"epic":{"app_name":"b2e00fc16632475782a7730d1bd7cb60","version":"0.0.10"},"profile":"p/frostpunk.json"},
-  {"exe":{"size":49278464,"sample_sha256":"97a964e9d76940d16bfe4487fb5b77c3b6c47b6bd1851439f08d96c4c1cc7650"},"profile":"p/frostpunk.json"}
-]}
+{
+ "format": "astercache-profile-index",
+ "version": 1,
+ "entries": [
+  {
+   "epic": {
+    "app_name": "b2e00fc16632475782a7730d1bd7cb60",
+    "version": "0.0.10"
+   },
+   "profile": "p/frostpunk.json"
+  },
+  {
+   "exe": {
+    "size": 49278464,
+    "sample_sha256": "97a964e9d76940d16bfe4487fb5b77c3b6c47b6bd1851439f08d96c4c1cc7650"
+   },
+   "profile": "p/frostpunk.json"
+  },
+  {
+   "steam": {
+    "appid": "1938090",
+    "depots": {
+     "1938091": "6435955751458887063",
+     "1938092": "6509064441386157735"
+    }
+   },
+   "profile": "p/call_of_duty.json"
+  },
+  {
+   "exe": {
+    "size": 231518712,
+    "sample_sha256": "e945e4f738cb1f9a90384709a682f666c6e11d86347bbbb619a01514f3a24b31"
+   },
+   "profile": "p/call_of_duty.json"
+  }
+ ]
+}
